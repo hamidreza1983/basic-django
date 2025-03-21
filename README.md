@@ -24,7 +24,7 @@
 1. کد را کلون کنید:
 ```bash
 git clone https://github.com/basic-django.git
-cd your-repo
+cd basic-django
 ```
 
 2. فایل `.env` را تنظیم کنید:
