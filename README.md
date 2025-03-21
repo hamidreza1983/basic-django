@@ -50,10 +50,11 @@ docker compose exec django python manage.py createsuperuser
 
 6. دسترسی به پروژه در مرورگر:
 ```bash
-http://localhost:8000
+http://localhost:8000/admin
 ```
 
 ---
+7. استتیک فایلهای خود را درون پوشه استتیک قرار دهید و در پوشه تمپلیت نیز آدرس های اچ تی ام ال را بگذارید
 
 ## ⚙️ دستورات کاربردی
 
